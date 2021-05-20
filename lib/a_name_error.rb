@@ -1,4 +1,4 @@
 "hello world"
 
-  Hello_World
+puts Hello_World
   
